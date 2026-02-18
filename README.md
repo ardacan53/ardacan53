@@ -53,7 +53,8 @@ My goal is to gain real-world experience and contribute to professional software
 
 ## 📫 Contact
 
-📧 yourmail@email.com  
+📧 ardag53@hotmail.com
+
 
 
 <!--
