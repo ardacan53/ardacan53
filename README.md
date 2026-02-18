@@ -28,15 +28,13 @@ My goal is to gain real-world experience and contribute to professional software
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ardacan53&show_icons=true&theme=tokyonight" />
-</p>
+![Ardacan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardacan53&show_icons=true&theme=tokyonight)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardacan53&layout=compact&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardacan53&layout=compact&theme=tokyonight)
+
 
 ---
 
