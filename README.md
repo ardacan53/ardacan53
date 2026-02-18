@@ -1,4 +1,60 @@
-## Hi there 👋
+
+# 👋 Hi, I'm Ardacan Gözüaçık
+
+💻 C# & Unity Developer  
+🎓 Management Information Systems Student  
+📍 Ankara, Türkiye  
+
+---
+
+## 🚀 About Me
+
+I am a Management Information Systems student focused on software development and game development.  
+I improve my technical skills by building projects with **C# and Unity**.  
+My goal is to gain real-world experience and contribute to professional software teams.
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,unity,git,github" />
+</p>
+
+- C#
+- Unity (2D Development)
+- Object-Oriented Programming (OOP)
+- Algorithm Fundamentals
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ardacan53&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardacan53&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📂 Projects
+
+🔹 Unity 2D Game Development  
+- Character movement system  
+- Collision detection  
+- Score system implementation  
+
+(More projects coming soon...)
+
+---
+
+## 📫 Contact
+
+📧 yourmail@email.com  
+
 
 <!--
 **ardacan53/ardacan53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
